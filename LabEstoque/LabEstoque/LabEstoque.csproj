@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D7A5704-4038-4DFA-8AF3-230F273E7793}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LabEstoque</RootNamespace>
+    <AssemblyName>LabEstoque</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\200791\Desktop\MySetupFile\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Lab Estoque</ProductName>
+    <PublisherName>LabEletrica</PublisherName>
+    <SuiteName>Lab Estoque</SuiteName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F329C01085F7E813A4AF6F00C5E5F6CC6D61B3C1</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>LabEstoque_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apresentação\CadastroUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\CadastroUsuarios.Designer.cs">
+      <DependentUpon>CadastroUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaClientes.Designer.cs">
+      <DependentUpon>ConsultaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaDevoluções.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaDevoluções.Designer.cs">
+      <DependentUpon>ConsultaDevoluções.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaEmpréstimos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaEmpréstimos.Designer.cs">
+      <DependentUpon>ConsultaEmpréstimos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaEstoque.Designer.cs">
+      <DependentUpon>ConsultaEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaManutenção.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaManutenção.Designer.cs">
+      <DependentUpon>ConsultaManutenção.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaPatrimônios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaPatrimônios.Designer.cs">
+      <DependentUpon>ConsultaPatrimônios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\ConsultaUsuarios.Designer.cs">
+      <DependentUpon>ConsultaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\Manutencao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\Manutencao.Designer.cs">
+      <DependentUpon>Manutencao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\MostrarFoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\MostrarFoto.Designer.cs">
+      <DependentUpon>MostrarFoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\tblPatrimônio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\tblPatrimônio.Designer.cs">
+      <DependentUpon>tblPatrimônio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\btnTblManutenção\btnAdicionarLinhaTblManutenção.cs" />
+    <Compile Include="DAL\btnTblManutenção\btnAlterarLinhaTblManutenção.cs" />
+    <Compile Include="DAL\btnTblDevoluções\btnAdicionarLinhaTblDevoluções.cs" />
+    <Compile Include="DAL\btnTblDevoluções\btnAlterarLinhaTblDevoluções.cs" />
+    <Compile Include="DAL\btnTblEmpréstimos\btnAdicionarLinhaTblEmpréstimos.cs" />
+    <Compile Include="DAL\btnTblEmpréstimos\btnAlterarLinhaTblEmpréstimos.cs" />
+    <Compile Include="DAL\btnTblPatrimônio\btnAdicionarLinhaTblPatrimônio.cs" />
+    <Compile Include="DAL\btnTblPatrimônio\btnAlterarLinhaTblPatrimônio.cs" />
+    <Compile Include="DAL\btnTblLoginUsuarios\btnAdicionarLinhaTblLoginUsuarios.cs" />
+    <Compile Include="DAL\btnTblLoginUsuarios\btnAlterarLinhaTblLoginUsuarios.cs" />
+    <Compile Include="DAL\btnTblEstoque\btnAdicionarLinhaTblEstoque.cs" />
+    <Compile Include="DAL\btnTblEstoque\btnAlterarLinhaTblEstoque.cs" />
+    <Compile Include="DAL\btnTblRegistro\btnAdicionarLinhaTblRegistro.cs" />
+    <Compile Include="DAL\btnTblRegistro\btnAlterarLinhaTblRegistro.cs" />
+    <Compile Include="DAL\btnApagarLinha.cs" />
+    <Compile Include="DAL\ConexãoGeral.cs" />
+    <Compile Include="DAL\RegistroDAO.cs" />
+    <Compile Include="DAL\SaidaItens.cs" />
+    <Compile Include="DAL\VoltaItens.cs" />
+    <Compile Include="LabArmarioDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabArmarioDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabArmarioDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabArmarioDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabArmarioDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabArmarioDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabArmarioDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabArmarioDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Manutenção.cs" />
+    <Compile Include="Modelo\ControleLogin.cs" />
+    <Compile Include="DAL\LoginDAO.cs" />
+    <Compile Include="DAL\Cadastro.cs" />
+    <Compile Include="DAL\Conexão.cs" />
+    <Compile Include="DAL\Devolução.cs" />
+    <Compile Include="Apresentação\Devolução.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\Devolução.Designer.cs">
+      <DependentUpon>Devolução.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\Empréstimo.cs" />
+    <Compile Include="Apresentação\Emprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\Emprestimo.Designer.cs">
+      <DependentUpon>Emprestimo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apresentação\Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apresentação\Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modelo\ControleRegistro.cs" />
+    <Compile Include="Modelo\Criptografia.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Apresentação\Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\CadastroUsuarios.resx">
+      <DependentUpon>CadastroUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaClientes.resx">
+      <DependentUpon>ConsultaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaDevoluções.resx">
+      <DependentUpon>ConsultaDevoluções.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaEmpréstimos.resx">
+      <DependentUpon>ConsultaEmpréstimos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaEstoque.resx">
+      <DependentUpon>ConsultaEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaManutenção.resx">
+      <DependentUpon>ConsultaManutenção.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaPatrimônios.resx">
+      <DependentUpon>ConsultaPatrimônios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\ConsultaUsuarios.resx">
+      <DependentUpon>ConsultaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\Devolução.resx">
+      <DependentUpon>Devolução.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\Emprestimo.resx">
+      <DependentUpon>Emprestimo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\Manutencao.resx">
+      <DependentUpon>Manutencao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\MostrarFoto.resx">
+      <DependentUpon>MostrarFoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apresentação\tblPatrimônio.resx">
+      <DependentUpon>tblPatrimônio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="LabArmarioDataSet.xsc">
+      <DependentUpon>LabArmarioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet.xss">
+      <DependentUpon>LabArmarioDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet1.xsc">
+      <DependentUpon>LabArmarioDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet1.xss">
+      <DependentUpon>LabArmarioDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet2.xsc">
+      <DependentUpon>LabArmarioDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet2.xss">
+      <DependentUpon>LabArmarioDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet3.xsc">
+      <DependentUpon>LabArmarioDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet3.xss">
+      <DependentUpon>LabArmarioDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet4.xsc">
+      <DependentUpon>LabArmarioDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet4.xss">
+      <DependentUpon>LabArmarioDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet5.xsc">
+      <DependentUpon>LabArmarioDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet5.xss">
+      <DependentUpon>LabArmarioDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet6.xsc">
+      <DependentUpon>LabArmarioDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="LabArmarioDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabArmarioDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabArmarioDataSet6.xss">
+      <DependentUpon>LabArmarioDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="LabEstoque_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\FormEmpréstimo.datasource" />
+    <None Include="Properties\DataSources\LabEstoque.Apresentação.tblPatrimônio.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos.csproj">
+      <Project>{ED9E58DD-12FF-4B87-BAA1-59A58FDD798D}</Project>
+      <Name>Sistema_Pesenca_Alunos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

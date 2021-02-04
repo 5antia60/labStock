@@ -1,0 +1,12 @@
+CREATE TABLE tblEmpréstimos
+
+(ID SMALLINT PRIMARY KEY IDENTITY (100,1),
+Item VARCHAR (50) NOT NULL,
+Quantidade INT NOT NULL,
+Data VARCHAR (38) NOT NULL,
+Patrimônio VARCHAR (50) NOT NULL,
+PrevisãoDeDevolução VARCHAR (38) NOT NULL,
+Registro VARCHAR (38) NOT NULL,
+Setor_Materia VARCHAR (38) NOT NULL,
+Responsavel VARCHAR (38) NOT NULL,
+Itens_para_devolver INT NOT NULL)

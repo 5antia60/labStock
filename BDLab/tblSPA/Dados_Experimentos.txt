@@ -1,0 +1,5 @@
+CREATE TABLE Dados_Experimentos(
+	ID SMALLINT PRIMARY KEY IDENTITY(100,1) NOT NULL,
+	Curso varchar(250) NOT NULL,
+	Experimento varchar(500) NOT NULL,
+	Material TEXT)

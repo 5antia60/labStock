@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[Dados_Presenca](
+	[ID] [SMALLINT PRIMARY KEY IDENTITY] (100,1) NOT NULL,
+	[Cod_Prof] [varchar](30) NOT NULL,
+	[Temp_Prof] [varchar](4) NOT NULL,
+	[Cod_Aux] [varchar](30) NOT NULL,
+	[Temp_Aux] [varchar](4) NOT NULL,
+	[Cod_Aluno] [varchar](6) NOT NULL,
+	[Temp_Aluno] [varchar](4) NOT NULL,
+	[Cod_Turma] [varchar](30) NOT NULL,
+	[Hora_Dia] [datetime] NOT NULL,
+	[Observacao] [varchar](1000) NULL)

@@ -1,0 +1,280 @@
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormSenhaEstoque.resources
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormMenu.resources
+C:\Users\d22\source\repos\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormSenhaUsuario.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.FormMenu.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.Apresentação.LoginConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.Apresentação.TelaConsultaInicial.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.LoginConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormMenu.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.TelaConsultaInicial.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.SucessoCliente.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque2\LabEstoque\obj\Debug\LabEstoque.Apresentação.SucessoCliente.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.Apresentação.LoginConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.Apresentação.TelaConsultaInicial.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque22\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.LoginConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.FormMenu.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.TelaConsultaInicial.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque22 - Copia\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.application
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Users\200791\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\bin\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r - Copia\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque223 !r\LabEstoque\obj\Debug\LabEstoque.Apresentação.MostrarFoto.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\bin\Debug\LabEstoque.application
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.MostrarFoto.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.application
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\D29\Documents\LabEstoqueNovo\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\LabEstoque.application
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.MostrarFoto.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.application
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.exe
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.pdb
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.exe.config
+C:\Users\D29\Documents\LabEstoqueNovo\teste\LabEstq - Copia\LabEstoque\obj\Debug\LabEstoque.csproj.CopyComplete
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.exe.config
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.MostrarFoto.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.application
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.CopyComplete
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.pdb
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.Manutencao.resources
+C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaManutenção.resources

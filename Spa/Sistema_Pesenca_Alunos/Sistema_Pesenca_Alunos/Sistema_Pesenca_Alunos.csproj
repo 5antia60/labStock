@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED9E58DD-12FF-4B87-BAA1-59A58FDD798D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Sistema_Pesenca_Alunos</RootNamespace>
+    <AssemblyName>Sistema_Pesenca_Alunos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\btnApagarLinhaSPA.cs" />
+    <Compile Include="DAL\CadAlunComands.cs" />
+    <Compile Include="DAL\CadAuxComands.cs" />
+    <Compile Include="DAL\CadExperimentos.cs" />
+    <Compile Include="DAL\CadOcorrenciaComands.cs" />
+    <Compile Include="DAL\CadPresenca.cs" />
+    <Compile Include="DAL\CadProfComands.cs" />
+    <Compile Include="DAL\CadTurmaComands.cs" />
+    <Compile Include="DAL\ChamaTelas.cs" />
+    <Compile Include="DAL\LoginSys.cs" />
+    <Compile Include="DAL\Conexao.cs" />
+    <Compile Include="DAL\Consulta.cs" />
+    <Compile Include="DAL\ConsultaReservaExp.cs" />
+    <Compile Include="DAL\ControleRegExp.cs" />
+    <Compile Include="DAL\NovoCliente.cs" />
+    <Compile Include="DAL\Reserva_Exp.cs" />
+    <Compile Include="DAL\UpdateHoraSaida.cs" />
+    <Compile Include="Modelo\Controle.cs" />
+    <Compile Include="Telas\Tela_Baixa_Alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Baixa_Alunos.Designer.cs">
+      <DependentUpon>Tela_Baixa_Alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Cad_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Cad_Clientes.Designer.cs">
+      <DependentUpon>Tela_Cad_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Cad_exp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Cad_exp.Designer.cs">
+      <DependentUpon>Tela_Cad_exp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Consulta_Ocorrencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Consulta_Ocorrencias.Designer.cs">
+      <DependentUpon>Tela_Consulta_Ocorrencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Consulta_Reserva_Exp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Consulta_Reserva_Exp.Designer.cs">
+      <DependentUpon>Tela_Consulta_Reserva_Exp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Consulta_Turmas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Consulta_Turmas.Designer.cs">
+      <DependentUpon>Tela_Consulta_Turmas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Reserva_Exp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Reserva_Exp.Designer.cs">
+      <DependentUpon>Tela_Reserva_Exp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Consul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Consul.Designer.cs">
+      <DependentUpon>Tela_Consul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Reg_Ocorrencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Reg_Ocorrencia.Designer.cs">
+      <DependentUpon>Tela_Reg_Ocorrencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Cad_Turma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Cad_Turma.Designer.cs">
+      <DependentUpon>Tela_Cad_Turma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Tela_Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Tela_Inicial.Designer.cs">
+      <DependentUpon>Tela_Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Telas\Tela_Baixa_Alunos.resx">
+      <DependentUpon>Tela_Baixa_Alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Cad_Clientes.resx">
+      <DependentUpon>Tela_Cad_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Cad_exp.resx">
+      <DependentUpon>Tela_Cad_exp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Consul.resx">
+      <DependentUpon>Tela_Consul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Consulta_Ocorrencias.resx">
+      <DependentUpon>Tela_Consulta_Ocorrencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Consulta_Reserva_Exp.resx">
+      <DependentUpon>Tela_Consulta_Reserva_Exp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Consulta_Turmas.resx">
+      <DependentUpon>Tela_Consulta_Turmas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Reg_Ocorrencia.resx">
+      <DependentUpon>Tela_Reg_Ocorrencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Cad_Turma.resx">
+      <DependentUpon>Tela_Cad_Turma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Tela_Inicial.resx">
+      <DependentUpon>Tela_Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Telas\Tela_Reserva_Exp.resx">
+      <DependentUpon>Tela_Reserva_Exp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

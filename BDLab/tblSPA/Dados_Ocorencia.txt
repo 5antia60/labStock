@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Dados_Ocorrencia](
+	[ID] SMALLINT PRIMARY KEY IDENTITY (100,1) NOT NULL,
+	[Cod_Aluno] [varchar](6) NOT NULL,
+	[Cod_Turma] [varchar](30) NOT NULL,
+	[Cod_Prof] [varchar](30) NOT NULL,
+	[Cod_Aux] [varchar](30) NOT NULL,
+	[Ocorrencia] [varchar](2000) NOT NULL,
+	[Hora_Dia] [datetime] NOT NULL)

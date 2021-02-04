@@ -1,0 +1,12 @@
+CREATE TABLE tblEstoque
+
+(ID SMALLINT PRIMARY KEY IDENTITY (100,1),
+Item TEXT NOT NULL,
+Quantidade_Total INT,
+Quantidade_Atual INT,
+Descrição TEXT NOT NULL,
+Sala TEXT,
+Armário TEXT,
+Espécie TEXT NOT NULL,
+Classificação TEXT,
+Foto TEXT)
