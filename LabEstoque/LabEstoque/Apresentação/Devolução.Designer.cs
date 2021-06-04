@@ -33,11 +33,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.txbDevRegistro = new System.Windows.Forms.TextBox();
             this.tblEmpréstimosBindingSource7 = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet6 = new LabEstoque.LabArmarioDataSet6();
             this.tblEmpréstimosBindingSource3 = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet4 = new LabEstoque.LabArmarioDataSet4();
             this.tblEmpréstimosBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet = new LabEstoque.LabArmarioDataSet();
             this.lblRegistro = new System.Windows.Forms.Label();
             this.txbDevPatrimonio = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -56,7 +53,6 @@
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.txbDevPItem = new System.Windows.Forms.TextBox();
-            this.tblEmpréstimosTableAdapter = new LabEstoque.LabArmarioDataSetTableAdapters.tblEmpréstimosTableAdapter();
             this.label10 = new System.Windows.Forms.Label();
             this.dgItensDevolver = new System.Windows.Forms.DataGridView();
             this.btnDevAdicionar = new System.Windows.Forms.Button();
@@ -66,33 +62,22 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label12 = new System.Windows.Forms.Label();
             this.tblEmpréstimosBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet3 = new LabEstoque.LabArmarioDataSet3();
             this.tblEmpréstimosBindingSource2 = new System.Windows.Forms.BindingSource(this.components);
-            this.tblEmpréstimosTableAdapter1 = new LabEstoque.LabArmarioDataSet3TableAdapters.tblEmpréstimosTableAdapter();
-            this.tblEmpréstimosTableAdapter2 = new LabEstoque.LabArmarioDataSet4TableAdapters.tblEmpréstimosTableAdapter();
             this.tblEmpréstimosBindingSource4 = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet5 = new LabEstoque.LabArmarioDataSet5();
             this.tblEmpréstimosBindingSource5 = new System.Windows.Forms.BindingSource(this.components);
-            this.tblEmpréstimosTableAdapter3 = new LabEstoque.LabArmarioDataSet5TableAdapters.tblEmpréstimosTableAdapter();
             this.tblEmpréstimosBindingSource6 = new System.Windows.Forms.BindingSource(this.components);
-            this.tblEmpréstimosTableAdapter4 = new LabEstoque.LabArmarioDataSet6TableAdapters.tblEmpréstimosTableAdapter();
             this.txbPesqCol = new System.Windows.Forms.ComboBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgItensDevolver)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource6)).BeginInit();
             this.groupBox3.SuspendLayout();
@@ -119,32 +104,23 @@
             // tblEmpréstimosBindingSource7
             // 
             this.tblEmpréstimosBindingSource7.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource7.DataSource = this.labArmarioDataSet6;
             // 
             // labArmarioDataSet6
             // 
-            this.labArmarioDataSet6.DataSetName = "LabArmarioDataSet6";
-            this.labArmarioDataSet6.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tblEmpréstimosBindingSource3
             // 
             this.tblEmpréstimosBindingSource3.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource3.DataSource = this.labArmarioDataSet4;
             // 
             // labArmarioDataSet4
             // 
-            this.labArmarioDataSet4.DataSetName = "LabArmarioDataSet4";
-            this.labArmarioDataSet4.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tblEmpréstimosBindingSource
             // 
             this.tblEmpréstimosBindingSource.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource.DataSource = this.labArmarioDataSet;
             // 
             // labArmarioDataSet
             // 
-            this.labArmarioDataSet.DataSetName = "LabArmarioDataSet";
-            this.labArmarioDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // lblRegistro
             // 
@@ -318,7 +294,6 @@
             // 
             // tblEmpréstimosTableAdapter
             // 
-            this.tblEmpréstimosTableAdapter.ClearBeforeFill = true;
             // 
             // label10
             // 
@@ -419,53 +394,40 @@
             // tblEmpréstimosBindingSource1
             // 
             this.tblEmpréstimosBindingSource1.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource1.DataSource = this.labArmarioDataSet;
             // 
             // labArmarioDataSet3
             // 
-            this.labArmarioDataSet3.DataSetName = "LabArmarioDataSet3";
-            this.labArmarioDataSet3.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tblEmpréstimosBindingSource2
             // 
             this.tblEmpréstimosBindingSource2.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource2.DataSource = this.labArmarioDataSet3;
             // 
             // tblEmpréstimosTableAdapter1
             // 
-            this.tblEmpréstimosTableAdapter1.ClearBeforeFill = true;
             // 
             // tblEmpréstimosTableAdapter2
             // 
-            this.tblEmpréstimosTableAdapter2.ClearBeforeFill = true;
             // 
             // tblEmpréstimosBindingSource4
             // 
             this.tblEmpréstimosBindingSource4.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource4.DataSource = this.labArmarioDataSet4;
             // 
             // labArmarioDataSet5
             // 
-            this.labArmarioDataSet5.DataSetName = "LabArmarioDataSet5";
-            this.labArmarioDataSet5.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tblEmpréstimosBindingSource5
             // 
             this.tblEmpréstimosBindingSource5.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource5.DataSource = this.labArmarioDataSet5;
             // 
             // tblEmpréstimosTableAdapter3
             // 
-            this.tblEmpréstimosTableAdapter3.ClearBeforeFill = true;
             // 
             // tblEmpréstimosBindingSource6
             // 
             this.tblEmpréstimosBindingSource6.DataMember = "tblEmpréstimos";
-            this.tblEmpréstimosBindingSource6.DataSource = this.labArmarioDataSet5;
             // 
             // tblEmpréstimosTableAdapter4
             // 
-            this.tblEmpréstimosTableAdapter4.ClearBeforeFill = true;
             // 
             // txbPesqCol
             // 
@@ -517,11 +479,8 @@
             this.Text = "Devolver";
             this.Load += new System.EventHandler(this.FormDevolução_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgItensDevolver)).EndInit();
             this.groupBox1.ResumeLayout(false);
@@ -529,10 +488,8 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEmpréstimosBindingSource6)).EndInit();
             this.groupBox3.ResumeLayout(false);
@@ -564,9 +521,7 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.TextBox txbDevPItem;
-        private LabArmarioDataSet labArmarioDataSet;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource;
-        private LabArmarioDataSetTableAdapters.tblEmpréstimosTableAdapter tblEmpréstimosTableAdapter;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.DataGridView dgItensDevolver;
         private System.Windows.Forms.Button btnDevAdicionar;
@@ -574,22 +529,14 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource1;
-        private LabArmarioDataSet3 labArmarioDataSet3;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource2;
-        private LabArmarioDataSet3TableAdapters.tblEmpréstimosTableAdapter tblEmpréstimosTableAdapter1;
-        private LabArmarioDataSet4 labArmarioDataSet4;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource3;
-        private LabArmarioDataSet4TableAdapters.tblEmpréstimosTableAdapter tblEmpréstimosTableAdapter2;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource4;
         private System.Windows.Forms.TextBox txbDevID;
         private System.Windows.Forms.Label label11;
-        private LabArmarioDataSet5 labArmarioDataSet5;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource5;
-        private LabArmarioDataSet5TableAdapters.tblEmpréstimosTableAdapter tblEmpréstimosTableAdapter3;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource6;
-        private LabArmarioDataSet6 labArmarioDataSet6;
         private System.Windows.Forms.BindingSource tblEmpréstimosBindingSource7;
-        private LabArmarioDataSet6TableAdapters.tblEmpréstimosTableAdapter tblEmpréstimosTableAdapter4;
         private System.Windows.Forms.ComboBox txbPesqCol;
         private System.Windows.Forms.GroupBox groupBox3;
     }

@@ -1,4 +1,4 @@
-TABLE Dados_Turma(
+Create TABLE Dados_Turma(
 	ID SMALLINT PRIMARY KEY IDENTITY (100,1) NOT NULL,
 	Cod_Turma varchar(30) NOT NULL,
 	Nome_Turma varchar(50) NOT NULL,

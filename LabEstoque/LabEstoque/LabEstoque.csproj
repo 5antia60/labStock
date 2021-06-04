@@ -172,45 +172,9 @@
     <Compile Include="DAL\btnTblRegistro\btnAdicionarLinhaTblRegistro.cs" />
     <Compile Include="DAL\btnTblRegistro\btnAlterarLinhaTblRegistro.cs" />
     <Compile Include="DAL\btnApagarLinha.cs" />
-    <Compile Include="DAL\ConexãoGeral.cs" />
     <Compile Include="DAL\RegistroDAO.cs" />
     <Compile Include="DAL\SaidaItens.cs" />
     <Compile Include="DAL\VoltaItens.cs" />
-    <Compile Include="LabArmarioDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="LabArmarioDataSet1.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet1.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="LabArmarioDataSet2.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet2.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="LabArmarioDataSet3.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet3.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="LabArmarioDataSet4.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet4.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="LabArmarioDataSet5.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet5.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="LabArmarioDataSet6.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>LabArmarioDataSet6.xsd</DependentUpon>
-    </Compile>
     <Compile Include="DAL\Manutenção.cs" />
     <Compile Include="Modelo\ControleLogin.cs" />
     <Compile Include="DAL\LoginDAO.cs" />
@@ -297,84 +261,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="LabArmarioDataSet.xsc">
-      <DependentUpon>LabArmarioDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet.xss">
-      <DependentUpon>LabArmarioDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet1.xsc">
-      <DependentUpon>LabArmarioDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet1.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet1.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet1.xss">
-      <DependentUpon>LabArmarioDataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet2.xsc">
-      <DependentUpon>LabArmarioDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet2.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet2.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet2.xss">
-      <DependentUpon>LabArmarioDataSet2.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet3.xsc">
-      <DependentUpon>LabArmarioDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet3.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet3.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet3.xss">
-      <DependentUpon>LabArmarioDataSet3.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet4.xsc">
-      <DependentUpon>LabArmarioDataSet4.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet4.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet4.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet4.xss">
-      <DependentUpon>LabArmarioDataSet4.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet5.xsc">
-      <DependentUpon>LabArmarioDataSet5.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet5.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet5.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet5.xss">
-      <DependentUpon>LabArmarioDataSet5.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet6.xsc">
-      <DependentUpon>LabArmarioDataSet6.xsd</DependentUpon>
-    </None>
-    <None Include="LabArmarioDataSet6.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>LabArmarioDataSet6.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="LabArmarioDataSet6.xss">
-      <DependentUpon>LabArmarioDataSet6.xsd</DependentUpon>
-    </None>
-    <None Include="LabEstoque_TemporaryKey.pfx" />
     <None Include="Properties\DataSources\FormEmpréstimo.datasource" />
     <None Include="Properties\DataSources\LabEstoque.Apresentação.tblPatrimônio.datasource" />
     <None Include="Properties\Settings.settings">

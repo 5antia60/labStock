@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[Dados_Presenca](
-	[ID] [SMALLINT PRIMARY KEY IDENTITY] (100,1) NOT NULL,
+	ID SMALLINT PRIMARY KEY IDENTITY (100,1) NOT NULL,
 	[Cod_Prof] [varchar](30) NOT NULL,
 	[Temp_Prof] [varchar](4) NOT NULL,
 	[Cod_Aux] [varchar](30) NOT NULL,

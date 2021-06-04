@@ -5,8 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//https://youtu.be/HihxWOXxFic Video de conexão do projeto
-
 namespace LabEstoque
 {
     public class Conexão
@@ -17,7 +15,9 @@ namespace LabEstoque
         //Construtor
         public Conexão() 
         {
-            con.ConnectionString = @"Data Source=C-153\SQLEXPRESS01;Initial Catalog=BDLabD28;Integrated Security=True";     //Caminho do servidor
+            //Code to change according to the README... Server path
+            //Código para alterar de acordo com o README... Server path
+            con.ConnectionString = @"Data Source=DESKTOP-TTESOU8\SQLEXPRESS;Initial Catalog=LabEstoque;Integrated Security=True";     //Caminho do servidor
             SConexao = con.ConnectionString;    
         }
 

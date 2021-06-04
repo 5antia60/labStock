@@ -33,9 +33,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txbEmpItem = new System.Windows.Forms.TextBox();
             this.tblEstoqueBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet21 = new LabEstoque.LabArmarioDataSet2();
             this.tblEstoqueBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.labArmarioDataSet1 = new LabEstoque.LabArmarioDataSet1();
             this.label2 = new System.Windows.Forms.Label();
             this.txbEmpQuantidade = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -54,10 +52,8 @@
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.txbEmpPesquisa = new System.Windows.Forms.TextBox();
-            this.tblEstoqueTableAdapter = new LabEstoque.LabArmarioDataSet1TableAdapters.tblEstoqueTableAdapter();
             this.label11 = new System.Windows.Forms.Label();
             this.txbEmpSetorMateria = new System.Windows.Forms.TextBox();
-            this.labArmarioDataSet2 = new LabEstoque.LabArmarioDataSet();
             this.btnADD = new System.Windows.Forms.Button();
             this.dgItensEmprestar = new System.Windows.Forms.DataGridView();
             this.label12 = new System.Windows.Forms.Label();
@@ -66,7 +62,6 @@
             this.btnPatrimônio = new System.Windows.Forms.Button();
             this.txbEmpEspécie = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
-            this.tblEstoqueTableAdapter1 = new LabEstoque.LabArmarioDataSet2TableAdapters.tblEstoqueTableAdapter();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnAmpliarImg = new System.Windows.Forms.Button();
             this.lblFotoNull = new System.Windows.Forms.Label();
@@ -74,11 +69,8 @@
             this.label14 = new System.Windows.Forms.Label();
             this.txbDescricao = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.tblEstoqueBindingSource1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet21)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEstoqueBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgItensEmprestar)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -107,22 +99,16 @@
             // tblEstoqueBindingSource1
             // 
             this.tblEstoqueBindingSource1.DataMember = "tblEstoque";
-            this.tblEstoqueBindingSource1.DataSource = this.labArmarioDataSet21;
             // 
             // labArmarioDataSet21
             // 
-            this.labArmarioDataSet21.DataSetName = "LabArmarioDataSet2";
-            this.labArmarioDataSet21.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tblEstoqueBindingSource
             // 
             this.tblEstoqueBindingSource.DataMember = "tblEstoque";
-            this.tblEstoqueBindingSource.DataSource = this.labArmarioDataSet1;
             // 
             // labArmarioDataSet1
             // 
-            this.labArmarioDataSet1.DataSetName = "LabArmarioDataSet1";
-            this.labArmarioDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // label2
             // 
@@ -299,7 +285,6 @@
             // 
             // tblEstoqueTableAdapter
             // 
-            this.tblEstoqueTableAdapter.ClearBeforeFill = true;
             // 
             // label11
             // 
@@ -319,8 +304,6 @@
             // 
             // labArmarioDataSet2
             // 
-            this.labArmarioDataSet2.DataSetName = "LabArmarioDataSet";
-            this.labArmarioDataSet2.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // btnADD
             // 
@@ -427,7 +410,6 @@
             // 
             // tblEstoqueTableAdapter1
             // 
-            this.tblEstoqueTableAdapter1.ClearBeforeFill = true;
             // 
             // pictureBox1
             // 
@@ -501,11 +483,8 @@
             this.Text = "Emprestar";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.tblEstoqueBindingSource1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet21)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tblEstoqueBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.labArmarioDataSet2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgItensEmprestar)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -538,20 +517,15 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.TextBox txbEmpPesquisa;
-        private LabArmarioDataSet1 labArmarioDataSet1;
         private System.Windows.Forms.BindingSource tblEstoqueBindingSource;
-        private LabArmarioDataSet1TableAdapters.tblEstoqueTableAdapter tblEstoqueTableAdapter;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox txbEmpSetorMateria;
-        private LabArmarioDataSet labArmarioDataSet2;
         private System.Windows.Forms.Button btnADD;
         private System.Windows.Forms.DataGridView dgItensEmprestar;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private LabArmarioDataSet2 labArmarioDataSet21;
         private System.Windows.Forms.BindingSource tblEstoqueBindingSource1;
-        private LabArmarioDataSet2TableAdapters.tblEstoqueTableAdapter tblEstoqueTableAdapter1;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TextBox txbEmpEspécie;
         private System.Windows.Forms.Button btnPatrimônio;

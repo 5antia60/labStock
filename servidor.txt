@@ -1,4 +1,0 @@
-Servidor: lab-eletrica.database.windows.net
-
-User: LabEletrica
-Senha: Facens2020

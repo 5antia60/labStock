@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LabEstoque.exe" size="2783144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LabEstoque.exe" size="2622888">
       <assemblyIdentity name="LabEstoque" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>w9+qd4L2d1pLqCv2n4vQ4ypg2xZurJaVcQ3MJKt2lmU=</dsig:DigestValue>
+        <dsig:DigestValue>QwQbR0TJjrQY5JeISVAISAGDtz9ADYYRNbuhmLvpn+8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2lYVnEvC5yQ7Fuiv6StEzAULCPgZJBhQ28CVNf+gsd8=</dsig:DigestValue>
+        <dsig:DigestValue>AaUICDsjMPYKN0GDVAb6peHvoBEwu7PtPmBprMewSps=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

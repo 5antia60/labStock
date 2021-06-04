@@ -278,3 +278,36 @@ C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe
 C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.pdb
 C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.Manutencao.resources
 C:\Users\D29\Desktop\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaManutenção.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe.config
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe.manifest
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.application
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.exe
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\LabEstoque.pdb
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.exe
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.pdb
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\bin\Debug\Sistema_Pesenca_Alunos.exe.config
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csprojAssemblyReference.cache
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormCadastro.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.CadastroConsulta.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaClientes.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaDevoluções.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEmpréstimos.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaEstoque.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaManutenção.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaPatrimônios.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.ConsultaUsuarios.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormDevolução.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.FormEmpréstimo.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.Login.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.Manutencao.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.MenuPrincipal.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.MostrarFoto.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Apresentação.tblPatrimônio.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.Properties.Resources.resources
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.GenerateResource.cache
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.CoreCompileInputs.cache
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe.manifest
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.application
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.csproj.CopyComplete
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.exe
+C:\Progamação Santiago\C#\BDC#\LabEstoque\LabEstoque\obj\Debug\LabEstoque.pdb

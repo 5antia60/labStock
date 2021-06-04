@@ -100,3 +100,23 @@ C:\Users\D29\Desktop\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\
 C:\Users\D29\Desktop\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.csproj.CoreCompileInputs.cache
 C:\Users\D29\Desktop\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.exe
 C:\Users\D29\Desktop\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.pdb
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\bin\Debug\Sistema_Pesenca_Alunos.exe.config
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\bin\Debug\Sistema_Pesenca_Alunos.exe
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\bin\Debug\Sistema_Pesenca_Alunos.pdb
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.csprojAssemblyReference.cache
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Baixa_Alunos.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Cad_Clientes.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Cad_exp.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Consul.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Consulta_Ocorrencias.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Consulta_Reserva_Exp.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Consulta_Turmas.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Reg_Ocorrencia.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Cad_Turma.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Tela_Inicial.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Properties.Resources.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.Telas.Tela_Reserva_Exp.resources
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.csproj.GenerateResource.cache
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.csproj.CoreCompileInputs.cache
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.exe
+C:\Progamação Santiago\C#\BDC#\Spa\Sistema_Pesenca_Alunos\Sistema_Pesenca_Alunos\obj\Debug\Sistema_Pesenca_Alunos.pdb
