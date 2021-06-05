@@ -1,8 +1,0 @@
-CREATE TABLE [dbo].[tblManutenção](
-	[ID] [smallint] IDENTITY(100,1) NOT NULL,
-	[Item] [varchar](50) NOT NULL,
-	[Patrimônio] [varchar](50) NULL,
-	[Ocorrência] [varchar](38) NOT NULL,
-	[Registro] [varchar](38) NOT NULL,
-	[Data] [varchar](38) NOT NULL,
-	[Observação] [varchar](max) NULL)
